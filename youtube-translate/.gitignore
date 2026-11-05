@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Skill output trees (produced at runtime)
+out/
+yt-translations/
+*.srt
+*.vtt
+*.json3
+!examples/**/*.srt
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
